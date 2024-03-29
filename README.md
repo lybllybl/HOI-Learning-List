@@ -146,7 +146,7 @@ More...
 
 - SBM (PRCV2023), [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8429-9_5)
 
-- UnionDet (arXiv 2023), [[Paper]](https://arxiv.org/pdf/2312.12664.pdf)
+- UnionDet (ECCV 2020), [[Paper]](https://arxiv.org/pdf/2312.12664.pdf)
 
 - SCA (arXiv 2023), [[Paper]](https://arxiv.org/pdf/2312.01713.pdf)
 
